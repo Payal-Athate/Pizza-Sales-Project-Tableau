@@ -16,10 +16,10 @@ The objective of this project is to analyze and visualize pizza sales data to ga
 2.	Data Cleaning & Preparation: Data preprocessing was performed to handle missing values, standardize date formats, and ensure consistency.
 3.	Data Analysis: Key performance indicators (KPIs) such as total sales, order count, and average order value were analyzed.
 4.	Dashboard Development: Using Tableau, interactive visualizations were created, including:
-a. Total Sales and Revenue Trends
-b. Top-Selling Pizza Categories
-c. Order Volume by Time Period
-d. Customer Purchase Behavior
+- Total Sales and Revenue Trends
+- Top-Selling Pizza Categories
+- Order Volume by Time Period
+- Customer Purchase Behavior
 
 ## Project Insights
 1. Sales Trends: The dashboard reveals seasonal trends and peak sales periods.
