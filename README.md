@@ -30,11 +30,6 @@ The objective of this project is to analyze and visualize pizza sales data to ga
 ## Final Conclusion
 The Pizza Sales Dashboard successfully provides a comprehensive view of sales data, enabling businesses to identify key revenue drivers and optimize their product offerings. The analysis highlights seasonal trends, customer preferences, and high-performing menu items, which can be leveraged for targeted promotions and inventory management. By utilizing this dashboard, stakeholders can make informed, data-driven decisions to enhance operational efficiency, increase profitability, and improve customer satisfaction. Future enhancements could include real-time data integration and predictive analytics for even deeper insights
 
-## Future Enhancements
-1. Integration with real-time sales data
-2. Advanced predictive analytics for demand forecasting
-3. Customer segmentation for targeted marketing strategies
-
 ## Dashboard
 ![image](https://github.com/user-attachments/assets/8d0a01ee-928f-41e4-931f-2b7084e582ab)
 
