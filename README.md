@@ -4,9 +4,9 @@
 The objective of this project is to analyze and visualize pizza sales data to gain insights into sales performance, customer preferences, and revenue trends. This dashboard provides a comprehensive view of key metrics to help stakeholders make data-driven decisions.
 
 ## Technologies Used
-•	Tableau for data visualization
-•	SQL/CSV for data storage and processing
-•	Data Cleaning Tools (Excel)
+1.	Tableau for data visualization
+2.	SQL/CSV for data storage and processing
+3.	Data Cleaning Tools (Excel)
 
 ## Dataset Used
 - <a href= "https://github.com/Payal-Athate/Tableau-Data-Analysis-Project/blob/main/pizza_sales_excel_file.xlsx"> Dataset </a>
